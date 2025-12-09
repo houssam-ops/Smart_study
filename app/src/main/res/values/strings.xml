@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartStudy</string>
+    <string name="app_logo">Logo de l\'application</string>
+    <string name="google_icon">Icône Google</string>
+    <string name="feature_icon">Icône fonctionnalité</string>
+    <string name="home">Accueil</string>
+    <string name="courses">Cours</string>
+    <string name="qcm">QCM</string>
+    <string name="settings">Settings</string>
+</resources>
